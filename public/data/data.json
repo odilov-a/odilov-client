@@ -1,0 +1,109 @@
+{
+    "personalInfo": {
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "about": "Passionate full stack developer with experience in building web applications using modern technologies. I enjoy creating dynamic and responsive websites.",
+        "profilePicture": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"
+    },
+    "skills": [
+        {
+            "category": "Frontend",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Bootstrap"
+            ]
+        },
+        {
+            "category": "Backend",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "Django",
+                "Ruby on Rails"
+            ]
+        },
+        {
+            "category": "Database",
+            "technologies": [
+                "MongoDB",
+                "PostgreSQL",
+                "MySQL"
+            ]
+        },
+        {
+            "category": "Other",
+            "technologies": [
+                "Git",
+                "Docker",
+                "AWS"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "description": "A personal portfolio website to showcase my projects and skills.",
+            "technologies": [
+                "React",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "image": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg",
+            "link": "https://example.com/portfolio"
+        },
+        {
+            "title": "E-commerce Platform",
+            "description": "A full-featured e-commerce platform with product listings, shopping cart, and payment integration.",
+            "technologies": [
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "image": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg",
+            "link": "https://example.com/ecommerce"
+        },
+        {
+            "title": "Task Management App",
+            "description": "A task management application to organize and track your daily tasks.",
+            "technologies": [
+                "Django",
+                "React",
+                "PostgreSQL"
+            ],
+            "image": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg",
+            "link": "https://example.com/taskmanager"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Example",
+            "year": "2020",
+            "details": "Studied various computer science topics including algorithms, data structures, and web development."
+        }
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Developer",
+            "company": "Tech Solutions Inc.",
+            "year": "2021 - Present",
+            "details": "Working on developing and maintaining web applications using modern technologies like React, Node.js, and MongoDB."
+        },
+        {
+            "title": "Frontend Developer Intern",
+            "company": "WebWorks",
+            "year": "2020",
+            "details": "Assisted in building responsive frontend components and implementing UI/UX designs."
+        }
+    ],
+    "contact": {
+        "email": "akbarjonodilov03@gmail.com",
+        "phone": "+(998) 93 809 50 59",
+        "linkedin": "https://www.linkedin.com/in/odilov-akbar/",
+        "github": "https://github.com/odilov-a",
+        "telegram": "https://t.me/akbr_odlv"
+    }
+}
