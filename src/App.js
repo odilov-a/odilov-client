@@ -25,7 +25,7 @@ function App() {
     <div className="App">
       {/* <PersonalInfo personalInfo={data.personalInfo} /> */}
       {/* <Skills skills={data.skills} /> */}
-      <Projects projects={data.projects} />
+      {/* <Projects projects={data.projects} /> */}
       {/* <Education education={data.education} /> */}
       {/* <Experience experience={data.experience} /> */}
       <Contact contact={data.contact} />
